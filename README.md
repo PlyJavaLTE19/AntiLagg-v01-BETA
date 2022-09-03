@@ -5,3 +5,5 @@
 *- Added Command /about For Help*
 
 *- At least needed 1 Mod to be installed for it to work.*
+
+*- Must Have At Least, CPU : Intel Or Other Manufactures, RAM : 2GB+*
