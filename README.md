@@ -2,6 +2,6 @@
 
 **- Version 1.15.x, 1.16.x, 1.17.x, 1.18.x, 1.19.x**
 
-**- Including Mods For it to work**
+*- Including Mods For it to work*
 
-**- Supported Forge And Optifine**
+*- Supported Forge And Optifine*
